@@ -1,5 +1,5 @@
-## Hi there 👋
-I am Tum, transitioning from real estate agent based in Chiang Mai, Thailand into 
+## Hi I am Tum
+transitioning from real estate agent based in Chiang Mai, Thailand into 
 IT Support, Cybersecurity & Networking, AI, Data Analytics.
 
 Open to entry-level IT roles, internship and collaboration.
