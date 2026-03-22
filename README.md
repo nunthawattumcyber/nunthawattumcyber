@@ -1,7 +1,8 @@
 ## Hi there 👋
 I am Tum 
 
-www.linkedin.com/in/ntw-hiranputtipat59-a43a791b0
+<a href="https://linkedin.com/in/ntw-hiranputtipat59-a43a791b0"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <!--
 **nunthawattumcyber/nunthawattumcyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
