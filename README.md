@@ -1,5 +1,8 @@
 ## Hi there 👋
-I am Tum 
+I am Tum, transitionong from real estate agent based in Chiang Mai, Thailand into 
+IT Support, Cybersecurity & Networking, AI, Data Analytics.
+
+Open to entry-level IT roles, internship and collaboration.
 
 <a href="https://linkedin.com/in/ntw-hiranputtipat59-a43a791b0"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
